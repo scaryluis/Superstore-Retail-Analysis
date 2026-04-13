@@ -37,4 +37,4 @@ Analyzed retail sales data to identify profitability drivers, discount impact, a
 ---
   
 ## Tableau Dashboard & Story
-[[View Interactive Tableau Dashboard]([https://public.tableau.com/views/SupertoreProjectDashboard/Story1](https://public.tableau.com/views/SuperstoreProjectDashboard_17759672530100/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))]
+[[View Interactive Tableau Dashboard](https://public.tableau.com/views/SuperstoreProjectDashboard_17759672530100/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
